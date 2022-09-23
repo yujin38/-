@@ -1,3 +1,6 @@
+// https://school.programmers.co.kr/learn/courses/30/lessons/72410
+// 정규식 사용
+
 #include <vector>
 #include <string>
 #include <regex>
