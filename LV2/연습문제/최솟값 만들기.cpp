@@ -1,4 +1,5 @@
-//https://school.programmers.co.kr/learn/courses/30/lessons/12941
+// https://school.programmers.co.kr/learn/courses/30/lessons/12941
+// 내림차순 정렬 사용
 
 #include <vector>
 #include <algorithm>
